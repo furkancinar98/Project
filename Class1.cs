@@ -8,5 +8,6 @@ namespace TestSınavıOtomasyonu
 {
     class Class1
     {
+        a
     }
 }
